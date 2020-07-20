@@ -1,5 +1,5 @@
 /* EX1a */
-
+// 画星星三角形
 public class ex1 {
     public static void main(String[] args) {
         int col = 0;
